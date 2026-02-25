@@ -58,6 +58,25 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "python-data-visualization",
+      "title": "Python Data Visualization",
+      "description": "Create charts and graphs using matplotlib or plotly.",
+      "path": "assignments/python-data-visualization",
+      "dueDate": "2026-02-25",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Dataset",
+          "file": "dataset.csv",
+          "type": "csv"
+        }
+      ]
     }
   ]
 }
